@@ -8,3 +8,5 @@ To get the Python script to run, you'll need to keep all the other 3 files from 
 Optionally, if you want to export the app as an executable file:
 - pip install pyinstaller
 - pyinstaller --onefile --windowed --add-data "Logo.png;." --add-data "appIcon.ico;." --icon="appIcon.ico" "OOP Identification.pyw"
+
+For the User's Guide and compiled executable files, head over to https://1drv.ms/f/s!Aq3aQ1c2RyuYik2MghTLLlURY1Wn
